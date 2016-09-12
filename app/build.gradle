@@ -5,8 +5,8 @@ android {
     buildToolsVersion "24.0.2"
 
     defaultConfig {
-        applicationId "com.appstudio.maxime.myapplication"
-        minSdkVersion 16
+        applicationId "com.appstudio.maxime.mrpotatohead"
+        minSdkVersion 14
         targetSdkVersion 24
         versionCode 1
         versionName "1.0"
